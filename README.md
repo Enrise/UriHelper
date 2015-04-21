@@ -1,6 +1,6 @@
 # UriHelper
 
-[![Build Status](https://travis-ci.org/enrise/urihelper.svg)](https://travis-ci.org/enrise/urihelper)
+[![Build Status](https://travis-ci.org/Enrise/UriHelper.svg)](https://travis-ci.org/Enrise/UriHelper)
 
 ---
 
