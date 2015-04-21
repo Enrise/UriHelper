@@ -1,6 +1,6 @@
 # UriHelper
 
-[![Build Status](https://travis-ci.org/urmaul/rich-types.svg)](https://travis-ci.org/urmaul/rich-types)
+[![Build Status](https://travis-ci.org/enrise/urihelper.svg)](https://travis-ci.org/enrise/urihelper)
 
 ---
 
