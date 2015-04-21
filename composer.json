@@ -1,0 +1,22 @@
+{
+    "name": "enrise/urihelper",
+    "type": "library",
+    "description": "A general URI helper class for PHP",
+    "keywords": ["types", "collections"],
+    "homepage": "https://github.com/Enrise/UriHelper",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Rob Quist"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-0": { "Enrise\\": "src/" }
+    }
+}
